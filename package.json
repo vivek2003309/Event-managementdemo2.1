@@ -1,0 +1,12 @@
+{
+  "name": "event-management-scroll-animation",
+  "version": "1.0.0",
+  "description": "Ultra-smooth high-performance canvas scroll animation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["canvas", "scroll-animation", "smooth-scroll"],
+  "author": "",
+  "license": "ISC"
+}
